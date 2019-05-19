@@ -24,7 +24,7 @@ Finnland - Kanada                                3-1 (1-1,0-0,2-0)
 
 USA - Slowakische Republik                       1-4 (1-1,0-2,0-1)
   0-1 SVK Matus Sukel 1                Marian Studenic                                   EQ   4:02
-  1-1 USA Alex Debrincat 1             Patrick Kane, Jack Eichel                         PP1 12:05
+  1-1 USA Alex DeBrincat 1             Patrick Kane, Jack Eichel                         PP1 12:05
   1-2 SVK Erik Cernak 1                Andrej Sekera                                     PP2 21:52
   1-3 SVK Tomas Tatar 1                Richard Panik                                     EQ  24:58
   1-4 SVK Michal Kristof 1             Martin Marincin                                   EQ  55:54
@@ -57,9 +57,9 @@ Slowakische Republik - Finnland                  2-4 (1-2,1-0,1-2)
 
 12.05.2019:
 USA - Frankreich                                 7-1 (3-0,2-0,2-1)
-  1-0 USA Alex Debrincat 2             James van Riemsdyk, Patrick Kane                  PP1  4:05
+  1-0 USA Alex DeBrincat 2             James van Riemsdyk, Patrick Kane                  PP1  4:05
   2-0 USA Frank Vatrano 1              Jack Eichel, Alec Martinez                        EQ   5:48
-  3-0 USA Alex Debrincat 3                                                               EQ   6:04
+  3-0 USA Alex DeBrincat 3                                                               EQ   6:04
   4-0 USA Colin White 1                Quinn Hughes, Alec Martinez                       EQ  33:56
   5-0 USA Patrick Kane 1               Dylan Larkin, Adam Fox                            EQ  35:52
   6-0 USA Chris Kreider 1              Dylan Larkin                                      EQ  40:55
@@ -127,7 +127,7 @@ USA - Großbritannien                             6-3 (1-1,3-1,2-1)
   1-1 GBR Mike Hammond 2               David Phillips                                    EQ  15:08
   2-1 USA Clayton Keller 1             Quinn Hughes, Thatcher Demko                      PP1 29:07
   3-1 USA Chris Kreider 2              Jack Eichel, Ryan Suter                           EQ  31:20
-  4-1 USA Alex Debrincat 4             Derek Ryan, Patrick Kane                          EQ  37:54
+  4-1 USA Alex DeBrincat 4             Derek Ryan, Patrick Kane                          EQ  37:54
   4-2 GBR Brett Perlini 1                                                                EQ  39:54
   5-2 USA Patrick Kane 2               Chris Kreider, Noah Hanifin                       EQ  41:00
   6-2 USA Derek Ryan 1                 Luke Glendening, Noah Hanifin                     EQ  49:10
@@ -156,14 +156,77 @@ Finnland - Dänemark                              3-1 (0-0,2-1,1-0)
   2-1 FIN Sakari Manninen 1            Toni Rajala, Mikko Lehtonen                       EQ  34:19
   3-1 FIN Harri Pesonen 2              Kaapo Kakko                                       EQ  51:07
 
-Tabelle: 1 Deutschland                 4 4 0 0 0 12- 5 12
-         2 Finnland                    4 3 0 1 0 12- 7 10
-         3 Kanada                      4 3 0 0 1 20-10  9
-         4 USA                         4 2 1 0 1 17-10  8
-		 5 Dänemark                    4 1 1 0 2 16- 9  5
-         6 Slowakische Republik        4 1 0 0 3 13-14  3
-         7 Frankreich                  4 0 0 1 3  8-21  1
-         8 Großbritannien              4 0 0 0 4  4-26  0
+17.05.2019:
+Frankreich - Slowakische Republik                3-6 (0-2,2-1,1-3)
+  0-1 SVK Richard Panik 1              Robert Lantosi, Andrej Sekera                     PP1 13:25
+  0-2 SVK Matus Sukel 4                Martin Fehervary, Tomas Tatar                     EQ  19:10
+  0-3 SVK Libor Hudacek 2              Richard Panik, Erik Cernak                        PP1 25:31
+  1-3 FRA Antonin Manavian 1           Kevin Hecquefeuille, Charles Bertrand             EQ  32:16
+  2-3 FRA Alexandre Texier 1           Florian Chakiachvili, Damien Fleury               PP1 35:09
+  2-4 SVK Erik Cernal 3                Richard Panik, Tomas Tatar                        EQ  40:16
+  2-5 SVK Michal Cajkovsky 1           David Buc                                         SH1 42:41
+  2-6 SVK Ladislav Nagy 2              Marko Dano, Martin Marincin                       PP1 45:41
+  3-6 FRA Anthony Rech 3               Alexandre Texier, Olivier Dame-Malka              EQ  57:50
+
+Finnland - Großbritannien                        5-0 (0-0,3-0,2-0)
+  1-0 FIN Toni Rajala 1                Mikko Lehtonen, J Olkinuora                       PP1 20:24
+  2-0 FIN Atte Ohtamaa 1               Juhani Tyrvainen, Veli-Matti Savinainen           EQ  25:08
+  3-0 FIN Joel Kiviranta 1             Miika Koivisto, Juhani Tyrvainen                  EQ  34:59
+  4-0 FIN Kristian Kuusela 1           Veli-Matti Savinainen                             EQ  57:27 ENG
+  5-0 FIN Mikko Lehtonen 1             Henri Jokiharju                                   PP1 59:49
+
+18.05.2019:
+Dänemark - USA                                   1-7 (0-4,1-2,0-1)
+  0-1 USA Frank Vatrano 2              Derek Ryan, Noah Hanifin                          EQ  10:34
+  0-2 USA Alex DeBrincat 5             Patrick Kane, Ryan Suter                          PP1 11:03
+  0-3 USA Clayton Keller 2             James van Riemsdyk, Ryan Suter                    EQ  14:24
+  0-4 USA Chris Kreider 3              Jack Hughes, Jack Eichel                          EQ  18:49
+  1-4 DEN Nick Olesen 1                Mathias Bau, Oliver Lauridsen                     EQ  24:50
+  1-5 USA Alex DeBrincat 6             Patrick Kane, Colin White                         EQ  31:55
+  1-6 USA Dylan Larkin 2               Derek Ryan                                        EQ  33:17
+  1-7 USA Jack Eichel 1                Patrick Kane, Alex DeBrincat                      PP1 51:19
+
+Kanada - Deutschland                             8-1 (2-0,2-1,4-0)
+  1-0 CAN Thomas Chabot 1              Jonathan Marchessault, Dylan Strome               PP1  2:01
+  2-0 CAN Mark Stone 3                 Damon Severson, Darnell Nurse                     EQ  16:43
+  3-0 CAN Mark Stone 4                 Dylan Strome, Jonathan Marchessault               PP1 26:02
+  3-1 GER Yasin Ehliz 2                Markus Eisenschmid, Yannic Seidenberg             PP1 38:01
+  4-1 CAN Mark Stone 5                 Pierre-Luc Dubois                                 EQ  38:49
+  5-1 CAN Anthony Mantha 6                                                               EQ  43:01
+  6-1 CAN Anthony Mantha 7             Kyle Turris                                       EQ  44:55
+  7-1 CAN Sam Reinhart 1               Dylan Strome                                      EQ  45:28
+  8-1 CAN Anthony Cirelli 3            Mathieu Joseph                                    SH1 53:10
+
+Großbritannien - Slowakische Republik            1-7 (1-3,0-3,0-1)
+  0-1 SVK Andrej Sekera 2              David Buc                                         EQ   2:04
+  0-2 SVK Tomas Tatar 2                                                                  EQ   2:25
+  0-3 SVK Martin Marincin 2            Michal Kristof                                    PP1  9:02
+  1-3 GBR Mike Hammond 3               Mark Richardson                                   EQ  17:44
+  1-4 SVK Michal Cajkovsky 2           Richard Panik                                     EQ  24:33
+  1-5 SVK Marian Studenic 1            Michal Kristof                                    EQ  29:09
+  1-6 SVK Matus Sukel 5                Adam Liska, Patrik Koch                           SH1 35:11
+  1-7 SVK David Bondra 1               Patrik Koch, Ladislav Nagy                        EQ  58:00
+
+19.05.2019:
+Deutschland - USA                                1-3 (1-1,0-0,0-2)
+  1-0 GER Frederik Tiffels 2           Leon Draisaitl                                    EQ  11:55
+  1-1 USA James van Riemsdyk 2         Clayton Keller, Alec Martinez                     EQ  13:47
+  1-2 USA Dylan Larkin 3               James van Riemsdyk, Alec Martinez                 EQ  50:03
+  1-3 USA Jack Eichel 2                Patrick Kane, Ryan Suter                          PP1 56:15
+
+Frankreich - Finnland                            0-3 (0-1,0-1,0-1)
+  0-1 FIN Joel Kiviranta 2             Petteri Lindbohm, Juhani Tyrvainen                EQ   9:24
+  0-2 FIN Niko Mikkola 1               Harri Pesonen, Oliwer Kaski                       EQ  21:51
+  0-3 FIN Jere Sallinen 1              Veli-Matti Savinainen, Kristian Kuusela           EQ  52:31
+
+Tabelle: 1 Finnland                    6 5 0 1 0 20- 7 15
+         2 USA                         6 4 1 0 1 27-12 14
+         3 Kanada                      5 4 0 0 1 28-11 12
+         4 Deutschland                 6 4 0 0 2 14-16 12
+		 5 Slowakische Republik        6 3 0 0 3 26-18  9
+         6 Dänemark                    5 1 1 0 3 17-16  5
+         7 Frankreich                  6 0 0 1 5 11-30  1
+         8 Großbritannien              6 0 0 0 6  5-38  0
 
 ---------------------------------------------------------------------------------------------------
 	
@@ -325,13 +388,76 @@ Tschechische Republik - Lettland                 6-3 (0-2,4-0,2-1)
   5-3 LAT Lauris Darzins 3             Oskars Cibulskis                                  PP1 55:28 EA
   6-3 CZE Jakub Voracek 2              Michael Frolik, Dominik Simon                     EQ  58:28 ENG
 
-Tabelle: 1 Russland                    4 4 0 0 0 23- 2 12
-         2 Schweiz                     4 4 0 0 0 20- 2 12
-         3 Schweden                    4 3 0 0 1 28- 7  9
-         4 Tschechische Republik       4 3 0 0 1 18-10  9
-		 5 Letttland                   4 2 0 0 2 12-11  6
-         6 Österreich                  4 0 0 0 4  3-23  0
-         7 Norwegen                    4 0 0 0 4  6-25  0
-         8 Italien                     4 0 0 0 4  0-30  0
+17.05.2019:
+Österreich - Norwegen                            3-5 (0-1,1-1,2-3)
+  0-1 NOR Christian Bull 1             Tobias Lindstrom                                  EQ   2:01
+  1-1 AUT Peter Schneider 1            Dominique Heinrich, Konstantin Komarek            PP2 22:08
+  1-2 NOR Johannes Johannesen 1        Thomas Valkvae Olsen, Andreas Martinsen           EQ  36:42
+  2-2 AUT Konstantin Komarek 1         Alexander Pallestrang, Peter Schneider            EQ  49:37
+  2-3 NOR Alexander Reichenberg 1      Michael Haga, Jonas Holos                         EQ  50:33
+  2-4 NOR Christian Bull 2             Mathis Olimb, Alexander Reichenberg               EQ  53:22 EA
+  3-4 AUT Dominique Heinrich 1         Peter Schneider, Dominic Zwerger                  EQ  59:09
+  3-5 NOR Christian Bull 3             Tobias Lindstrom                                  EQ  59:17 ENG
+
+Tschechische Republik - Italien                  8-0 (1-0,4-0,3-0)
+  1-0 CZE Milan Gulas 1                Dominik Kubalik                                   EQ   7:04
+  2-0 CZE Radko Gudas 1                Dmitrij Jaskin                                    EQ  27:09
+  3-0 CZE Michael Frolik 4             Michal Moravcik, Dominik Simon                    EQ  32:07
+  4-0 CZE Jan Kovar 3                  Jakub Voracek, Michael Frolik                     PP1 33:43
+  5-0 CZE Dmitrij Jaskin 1             Filip Chytil, Michal Repik                        EQ  34:17
+  6-0 CZE Dominik Simon 2              Jakub Voracek, Michael Frolik                     EQ  56:02
+  7-0 CZE Dmitrij Jaskin 2             David Musil, Michal Repik                         EQ  57:42
+  8-0 CZE Michael Frolik 5             Jan Kolar                                         EQ  57:58
+
+18.05.2019:
+Lettland - Russland                              1-3 (1-0,0-3,0-0)
+  1-0 LAT Oskars Cibulskis 1           Miks Indrasis                                     PP1 10:28
+  1-1 RUS Dmitri Orlov 1               Ilya Kovalchuk, Sergei Plotnikov                  EQ  20:27
+  1-2 RUS Nikita Gusev 3               Yevgeni Dadonov, Nikita Kucherov                  PP1 23:50
+  1-3 RUS Nikita Kucherov 4            Artyom Anisimov                                   EQ  32:40
+
+Italien - Norwegen                               1-7 (0-1,0-0,1-6)
+  0-1 NOR Alexander Reichenberg 2      Erlend Lesund, Andreas Martinsen                  EQ  15:23
+  0-2 NOR Mathias Trettenes 2          Mathis Olimb, Thomas Valkvae Olsen                EQ  41:47
+  1-2 ITA Angelo Miceli 1              Armin Helfer, Simon Kostner                       EQ  42:03
+  1-3 NOR Michael Haga 1               Thomas Valkvae Olsen, Alexander Bonsaksen         EQ  43:55
+  1-4 NOR Tobias Lindstrom 3           Andreas Martinsen                                 EQ  47:45
+  1-5 NOR Sondre Olden 2               Jonas Holos, Mathis Olimb                         EQ  49:06
+  1-6 NOR Martin Roymark 1                                                               EQ  51:39
+  1-7 NOR Stefan Espeland 1            Christian Bull, Michael Haga                      PP1 59:08
+
+Schweden - Schweiz                               4-3 (1-1,2-1,1-1)
+  0-1 SUI Sven Andrighetto 2           Gaetan Haas                                       EQ   4:09
+  1-1 SWE Alexander Wennberg 3         John Klingberg                                    PP1 18:44
+  2-1 SWE William Nylander 4           Patric Hornqvist, Adam Larsson                    EQ  25:20
+  2-2 SUI Joel Genazzi 1               Roman Josi                                        EQ  27:58
+  3-2 SWE Eri Gustafsson 1             William Nylander                                  EQ  28:28
+  3-3 SUI Gaetan Haas 1                Tristan Scherwey, Christoph Bertschy              EQ  50:27
+  4-3 SWE Oliver Ekman-Larsson 2       William Nylander, Alexander Wennberg              EQ  51:47
+
+19.05.2019:
+Österreich - Tschechische Republik               0-8 (0-2,0-3,0-3)
+  0-1 CZE Radek Faksa 1                Jan Kolar, Radko Gudas                            EQ   6:30
+  0-2 CZE Dominik Kubalik 3            Radko Gudas                                       EQ  14:30
+  0-3 CZE Dominik Simon 3              Jakub Voracek, Filp Hronek                        EQ  20:41
+  0-4 CZE Michal Repik 2               Radek Faksa, Dominik Kubalik                      PP2 30:14
+  0-5 CZE Michael Frolik 6             Milan Gulas, Filip Hronek                         PP2 30:55
+  0-6 CZE Michal Repik 3               Dominik Kubalik, Jan Kolar                        EQ  42:26
+  0-7 CZE Jan Kolar 1                  Jakub Voracek, Michael Frolik                     EQ  44:06
+  0-8 CZE Jakub Vrana 4                Dmitrij Jaskin, Radek Faksa                       EQ  45:01
+
+Schweiz - Russland                               0-3 (0-1,0-1,0-1)
+  0-1 RUS Artyom Anisimov 2            Dmitri Orlov, Nikita Gusev                        EQ   3:36
+  0-2 RUS Nikita Kucherov 5            Nikita Gusev                                      PP1 26:20
+  0-3 RUS Nikita Kucherov 6            Artyom Anisimov, Nikita Zaitsev                   EQ  55:20
+
+Tabelle: 1 Russland                    6 6 0 0 0 29- 3 18
+         2 Tschechische Republik       6 5 0 0 1 34-10 15
+         3 Schweden                    5 4 0 0 1 32-10 12
+         4 Schweiz                     6 4 0 0 2 23- 9 12
+		 5 Lettland                    5 2 0 0 3 13-14  6
+         6 Norwegen                    6 2 0 0 4 18-29  6
+         7 Österreich                  6 0 0 0 6  6-36  0
+         8 Italien                     6 0 0 0 6  1-45  0
 
 ---------------------------------------------------------------------------------------------------

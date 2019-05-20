@@ -219,14 +219,31 @@ Frankreich - Finnland                            0-3 (0-1,0-1,0-1)
   0-2 FIN Niko Mikkola 1               Harri Pesonen, Oliwer Kaski                       EQ  21:51
   0-3 FIN Jere Sallinen 1              Veli-Matti Savinainen, Kristian Kuusela           EQ  52:31
 
+20.05.2019:
+Frankreich - Großbritannien                      3-4 (0-0,3-2,0-1,0-1)
+  1-0 FRA Anthony Rech 4               Antonin Manavian, Tim Bozon                       EQ  23:36
+  2-0 FRA Sacha Treille 1              Florian Chakiachvili, Alexandre Texier            PP1 27:31
+  3-0 FRA Anthony Rech 5               Valentin Claireaux                                EQ  27:37
+  3-1 GBR Robert Dowd 1                Ben Oconnor                                       EQ  34:59
+  3-2 GBR Mike Hammond 4               Ben Oconnor, David Phillips                       EQ  38:04
+  3-3 GBR Robert Farmer 1              David Phillips, Ben Oconnor                       EQ  45:16
+  3-4 GBR Ben Davies 2                 Jonathan Phillips                                 EQ  62:03
+
+Kanada - Dänemark                                5-0 (3-0,1-0,1-0)
+  1-0 CAN Pierre-Luc Dubois 1          Jonathan Marchessault, Mark Stone                 EQ   1:00
+  2-0 CAN Jared McCann 1               Kyle Turris                                       EQ   6:06
+  3-0 CAN Jonathan Marchessault 3      Damon Severson, Mark Stone                        EQ   8:23
+  4-0 CAN Sam Reinhart 2               Sean Couturier, Thomas Chabot                     PP1 33:53
+  5-0 CAN Sam Reinhart 3               Philippe Myers, Anthony Cirelli                   EQ  44:34
+
 Tabelle: 1 Finnland                    6 5 0 1 0 20- 7 15
-         2 USA                         6 4 1 0 1 27-12 14
-         3 Kanada                      5 4 0 0 1 28-11 12
+         2 Kanada                      6 5 0 0 1 33-11 15
+         3 USA                         6 4 1 0 1 27-12 14
          4 Deutschland                 6 4 0 0 2 14-16 12
 		 5 Slowakische Republik        6 3 0 0 3 26-18  9
-         6 Dänemark                    5 1 1 0 3 17-16  5
-         7 Frankreich                  6 0 0 1 5 11-30  1
-         8 Großbritannien              6 0 0 0 6  5-38  0
+         6 Dänemark                    6 1 1 0 4 17-21  5
+         7 Großbritannien              7 0 1 0 6  8-42  2
+         8 Frankreich                  7 0 0 2 5 14-34  2
 
 ---------------------------------------------------------------------------------------------------
 	
@@ -451,13 +468,34 @@ Schweiz - Russland                               0-3 (0-1,0-1,0-1)
   0-2 RUS Nikita Kucherov 5            Nikita Gusev                                      PP1 26:20
   0-3 RUS Nikita Kucherov 6            Artyom Anisimov, Nikita Zaitsev                   EQ  55:20
 
+20.05.2019:
+Schweden - Lettland                              5-4 (1-0,1-1,3-3)
+  1-0 SWE Elias Pettersson 2           Gabriel Landeskog, Elias Lindholm                 PP1 10:15
+  1-1 LAT Roberts Bukarts 2            Rihards Bukarts, Ralfs Freibergs                  PP1 29:35
+  2-1 SWE Adrian Kempe 3               William Nylander, John Klingberg                  EQ  33:38
+  2-3 LAT Roberts Bukarts 3                                                              PP1 41:11
+  2-3 LAT Janis Jaks 1                 Rihards Bukarts, Lauris Darzins                   EQ  43:42
+  3-3 SWE Anton Lander 4               Adrian Kempe                                      EQ  49:00
+  4-3 SWE Patric Hornqvist 6           Mattias Ekholm, William Nylander                  EQ  50:09
+  4-4 LAT Roberts Bukarts 4            Miks Indrasis, Kristaps Sotnieks                  EQ  56:36
+  5-4 SWE Dennis Rasmussen 2                                                             EQ  59:26 ENG
+
+Österreich - Italien                             3-4 (2-1,0-2,1-0,0-0,0-1)
+  0-1 ITA Anthony Bardaro 1            Alex Trivellato                                   EQ   9:59
+  1-1 AUT Manuel Ganahl 1              Clemens Unterweger                                EQ  11:25
+  2-1 AUT Michael Raffl 3              Fabio Hofer, Clemens Unterweger                   EQ  16:08
+  2-2 ITA Simon Kostner 1              Angelo Miceli                                     EQ  34:35
+  2-3 ITA Marco Rosa 1                 Joachim Ramoser                                   EQ  38:57
+  3-3 AUT Michael Raffl 4              Fabio Hofer                                       EQ  41:45
+  3-4 ITA Sean McMonagle                                                                 GWS 65:00
+
 Tabelle: 1 Russland                    6 6 0 0 0 29- 3 18
          2 Tschechische Republik       6 5 0 0 1 34-10 15
-         3 Schweden                    5 4 0 0 1 32-10 12
+         3 Schweden                    6 5 0 0 1 37-14 15
          4 Schweiz                     6 4 0 0 2 23- 9 12
-		 5 Lettland                    5 2 0 0 3 13-14  6
+		 5 Lettland                    6 2 0 0 4 17-19  6
          6 Norwegen                    6 2 0 0 4 18-29  6
-         7 Österreich                  6 0 0 0 6  6-36  0
-         8 Italien                     6 0 0 0 6  1-45  0
+         7 Italien                     7 0 1 0 6  5-48  2
+         8 Österreich                  7 0 0 1 6  9-30  1
 
 ---------------------------------------------------------------------------------------------------

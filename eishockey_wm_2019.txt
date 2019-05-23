@@ -236,13 +236,32 @@ Kanada - Dänemark                                5-0 (3-0,1-0,1-0)
   4-0 CAN Sam Reinhart 2               Sean Couturier, Thomas Chabot                     PP1 33:53
   5-0 CAN Sam Reinhart 3               Philippe Myers, Anthony Cirelli                   EQ  44:34
 
-Tabelle: 1 Finnland                    6 5 0 1 0 20- 7 15
-         2 Kanada                      6 5 0 0 1 33-11 15
-         3 USA                         6 4 1 0 1 27-12 14
-         4 Deutschland                 6 4 0 0 2 14-16 12
-		 5 Slowakische Republik        6 3 0 0 3 26-18  9
-         6 Dänemark                    6 1 1 0 4 17-21  5
-         7 Großbritannien              7 0 1 0 6  8-42  2
+21.05.2019:
+Finnland - Deutschland                           2-4 (1-1,1-1,0-2)
+  1-0 FIN Harri Pesonen 3              Mikko Lehtonen, Henri Jokiharju                   PP1 15:05
+  1-1 GER Marc Michaelis 2             Matthias Plachta, Markus Eisenschmid              EQ  17:04
+  2-1 FIN Juhani Tyrvainen 1           Niko Ojamaki                                      EQ  24:07
+  2-2 GER Dominik Kahun 1              Leon Draisaitl                                    EQ  33:13
+  2-3 GER Leon Draisaitl 4             Leonhard Pfoderl                                  PP1 44:46
+  2-4 GER Leon Draisaitl 5                                                               EQ  59:00 ENG
+
+Slowakische Republik - Dänemark                  2-1 (0-0,1-0,0-1,0-0,1-0)
+  1-0 SVK Martin Marincin 3            Marian Studenic, Ladislav Nagy                    EQ  39:04
+  1-1 DEN Mikkel Boedker 1             Patrick Russell, Jesper Jensen Aabo               PP2 46:41
+  2-1 SVK Ladislav Nagy                                                                  GWS 65:00
+
+Kanada - USA                                     3-0 (2-0,1-0,0-0)
+  1-0 CAN Pierre-Luc Dubois 2          Mark Stone                                        EQ   1:49
+  2-0 CAN Kyle Turris 3                Anthony Mantha                                    EQ   8:02
+  3-0 CAN Jared McCann 2               Kyle Turris, Dante Fabbro                         EQ  35:59
+
+Tabelle: 1 Kanada                      7 6 0 0 1 36-11 18
+         2 Finnland                    7 5 0 1 1 22-11 16
+         3 Deutschland                 7 5 0 0 2 18-18 15
+         4 USA                         7 4 1 0 2 27-15 14
+		     5 Slowakische Republik        7 3 1 0 3 28-19 11
+         6 Dänemark                    7 1 1 1 4 18-23  6
+         7 Großbritannien              7 0 1 0 6  9-41  2
          8 Frankreich                  7 0 0 2 5 14-34  2
 
 ---------------------------------------------------------------------------------------------------
@@ -489,13 +508,57 @@ Schweden - Lettland                              5-4 (1-0,1-1,3-3)
   3-3 AUT Michael Raffl 4              Fabio Hofer                                       EQ  41:45
   3-4 ITA Sean McMonagle                                                                 GWS 65:00
 
-Tabelle: 1 Russland                    6 6 0 0 0 29- 3 18
-         2 Tschechische Republik       6 5 0 0 1 34-10 15
-         3 Schweden                    6 5 0 0 1 37-14 15
-         4 Schweiz                     6 4 0 0 2 23- 9 12
-		 5 Lettland                    6 2 0 0 4 17-19  6
-         6 Norwegen                    6 2 0 0 4 18-29  6
+21.05.2019:
+Tschechische Republik - Schweiz                  5-4 (1-1,3-1,1-2)
+  0-1 SUI Lukas Frick 1                Lino Martschini, Tristan Scherwey                 EQ   2:13
+  1-1 CZE Jakub Voracek 3              Jan Kovar, Michael Frolik                         PP1 12:21
+  2-1 CZE Dominik Simon 4              Jakub Voracek, Filip Hronek                       EQ  20:38
+  3-1 CZE Michael Frolik 7             Jakub Voracek, Dominik Simon                      EQ  26:20
+  3-2 SUI Tristan Scherwey 1           Lino Martschini, Philipp Kurashev                 EQ  26:49
+  4-2 CZE Dominik Kubalik 4            Dominik Simon                                     EQ  28:27
+  4-3 SUI Tristan Scherwey 2           Yannick Weber, Lino Martschini                    EQ  41:47
+  4-4 SUI Nino Niederreiter            Roman Josi, Nico Hischier                         EQ  56:19
+  5-4 CZE Jan Rutta 1                                                                    EQ  58:33 ENG
+
+Norwegen - Lettland                              1-4 (1-0,0-1,0-3)
+  1-0 NOR Tobias Lindstrom 4           Jonas Holos, Andreas Martinsen                    PP1 15:18
+  1-1 LAT Miks Indrasis 3              Rudolfs Balcers, Teodors Blugers                  PP1 22:43
+  1-2 LAT Janis Jaks 2                 Uvis Balinskis, Miks Indrasis                     EQ  46:59
+  1-3 LAT Rihards Marenis 2            Arturs Kulda, Rudolfs Balcers                     EQ  47:55
+  1-4 LAT Ronalds Kenins 2             Miks Indrasis                                     EQ  54:13
+
+Schweden - Russland                              4-7 (1-0,0-6,3-1)
+  1-0 SWE Gabriel Landeskog 2          Marcus Pettersson, Elias Pettersson               EQ   7:32
+  1-1 RUS Artyom Anisimov 3            Nikita Gusev, Nikita Kucherov                     EQ  20:57
+  1-2 RUS Yevgeni Dadonov 7            Mikhail Sergachyov, Yevgeni Kuznetsov             EQ  24:10
+  1-3 RUS Alexander Ovechkin 2         Yevgeni Malkin, Dinar Khafizullin                 EQ  28:52
+  1-4 RUS Kirill Kaprizov 1                                                              EQ  34:39
+  1-5 RUS Mikhail Grigorenko 2                                                           EQ  37:17
+  1-6 RUS Yevgeni Malkin 1             Nikita Zadorov, Yevgeni Dadonov                   EQ  37:47
+  2-6 SWE William Nylander 5           Alexander Wennberg                                EQ  52:02
+  2-7 RUS Dmitri Orlov 2               Alexander Barabonov, Ivan Telegin                 EQ  52:57
+  3-7 SWE Oliver Ekman-Larsson 3       Elias Pettersson                                  EQ  56:22
+  4-7 SWE John Klingberg 1             Oliver Ekman-Larsson, William Nylander            PP1 58:49
+
+Tabelle: 1 Russland                    7 7 0 0 0 36- 7 21
+         2 Tschechische Republik       7 6 0 0 1 39-14 18
+         3 Schweden                    7 5 0 0 2 41-21 15
+         4 Schweiz                     7 4 0 0 3 27-14 12
+		     5 Lettland                    7 3 0 0 4 21-20  9
+         6 Norwegen                    7 2 0 0 5 19-33  6
          7 Italien                     7 0 1 0 6  5-48  2
-         8 Österreich                  7 0 0 1 6  9-30  1
+         8 Österreich                  7 0 0 1 6  9-40  1
 
 ---------------------------------------------------------------------------------------------------
+Viertelfinale:
+---------------------------------------------------------------------------------------------------
+
+23.05.2019:
+Kanada - Schweiz
+
+Russland - USA
+
+Finnland - Schweden
+
+Tschechische Republik - Deutschland
+

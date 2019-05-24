@@ -8,12 +8,12 @@ Vorrunde:
 
 Gruppe A: Dänemark                     DEN
           Deutschland                  GER
-		  Finnland                     FIN
+          Finnland                     FIN
           Frankreich                   FRA
-		  Großbritannien               GBR
-		  Kanada                       CAN
-		  Slowakische Republik         SVK
-		  USA                          USA
+          Großbritannien               GBR
+          Kanada                       CAN
+          Slowakische Republik         SVK
+          USA                          USA
 
 10.05.2019:
 Finnland - Kanada                                3-1 (1-1,0-0,2-0)
@@ -259,21 +259,21 @@ Tabelle: 1 Kanada                      7 6 0 0 1 36-11 18
          2 Finnland                    7 5 0 1 1 22-11 16
          3 Deutschland                 7 5 0 0 2 18-18 15
          4 USA                         7 4 1 0 2 27-15 14
-		     5 Slowakische Republik        7 3 1 0 3 28-19 11
+         5 Slowakische Republik        7 3 1 0 3 28-19 11
          6 Dänemark                    7 1 1 1 4 18-23  6
          7 Großbritannien              7 0 1 0 6  9-41  2
          8 Frankreich                  7 0 0 2 5 14-34  2
 
 ---------------------------------------------------------------------------------------------------
-	
+    
 Gruppe B: Italien                      ITA
-		  Lettland                     LAT
+          Lettland                     LAT
           Norwegen                     NOR
-		  Österreich                   AUT
-		  Russland                     RUS
-		  Schweden                     SWE
-		  Schweiz                      SUI
-		  Tschechische Republik        CZE
+          Österreich                   AUT
+          Russland                     RUS
+          Schweden                     SWE
+          Schweiz                      SUI
+          Tschechische Republik        CZE
 
 10.05.2019:
 Russland - Norwegen                              5-2 (2-0,2-0,1-2)
@@ -544,7 +544,7 @@ Tabelle: 1 Russland                    7 7 0 0 0 36- 7 21
          2 Tschechische Republik       7 6 0 0 1 39-14 18
          3 Schweden                    7 5 0 0 2 41-21 15
          4 Schweiz                     7 4 0 0 3 27-14 12
-		     5 Lettland                    7 3 0 0 4 21-20  9
+         5 Lettland                    7 3 0 0 4 21-20  9
          6 Norwegen                    7 2 0 0 5 19-33  6
          7 Italien                     7 0 1 0 6  5-48  2
          8 Österreich                  7 0 0 1 6  9-40  1
@@ -554,11 +554,47 @@ Viertelfinale:
 ---------------------------------------------------------------------------------------------------
 
 23.05.2019:
-Kanada - Schweiz
+Kanada - Schweiz                                 3-2 (0-1,1-1,1-0,1-0)
+  0-1 SUI Sven Andrighetto 3           Raphael Diaz, Kevin Fiala                         PP1 18:06
+  1-1 CAN Mark Stone 6                 Dante Fabbro, Pierre-Luc Dubois                   EQ  25:45
+  1-2 SUI Nico Hischier 4              Lino Martschini, Nino Niederreiter                PP1 39:57
+  2-2 CAN Damon Severson 1             Mark Stone                                        EQ  59:59 EA
+  3-2 CAN Mark Stone 7                 Pierre-Luc Dubois, Shea Theodore                  EQ  65:07
 
-Russland - USA
+Russland - USA                                   4-3 (2-0,0-1,2-2)
+  1-0 RUS Nikita Gusev 4               Mikhail Sergachyov, Nikita Kucherov               EQ   1:07
+  2-0 RUS Mikhail Sergachyov 1         Nikita Gusev                                      PP1 15:47
+  2-1 USA Brady Skjei 2                Patrick Kane, Johnny Gaudreau                     EQ  22:22
+  3-1 RUS Kirill Kaprizov 2            Nikita Gusev, Mikhail Sergachyov                  EQ  41:31
+  3-2 USA Noah Hanifin 1               Jack Hughes                                       EQ  45:53
+  4-2 RUS Mikhail Grigorenko 3         Yevgeni Malkin, Yevgeni Dadonov                   EQ  47:02
+  4-3 USA Alex DeBrincat 7             Patrick Kane, Jack Hughes                         EQ  57:10 EA
 
-Finnland - Schweden
+Finnland - Schweden                              5-4 (1-2,2-2,1-0,1-0)
+  1-0 FIN Niko Mikkola 2               Harri Pesonen, Sakari Manninen                    EQ   1:00
+  1-1 SWE John Klingberg 2             William Nylander, Alexander Wennberg              PP1  2:38
+  1-2 SWE Patric Hornqvist 7           Oliver Ekman-Larsson, Adam Larsson                EQ  16:57
+  1-3 SWE Elias Pettersson 3           Gabriel Landeskog, Oliver Ekman-Larsson           EQ  20:25
+  2-3 FIN Petteri Lindbohm 2           Sakari Manninen, Harri Pesonen                    EQ  25:04
+  3-3 FIN Jani Hakanpaa 1              Sakari Manninen                                   EQ  29:08
+  3-4 SWE Erik Gustafsson 2            Gabriel Landeskog, Alexander Wennberg             EQ  39:35
+  4-4 FIN Marko Anttila 1              Niko Ojamaki, Mikko Lehtonen                      EQ  58:31 EA
+  5-4 FIN Sakari Manninen 2            Kevin Lankinen                                    EQ  61:37
 
-Tschechische Republik - Deutschland
+Tschechische Republik - Deutschland              5-1 (0-0,1-1,4-0)
+  1-0 CZE Jan Kovar 4                                                                    EQ  33:41
+  1-1 GER Frank Mauer 1                Frederik Tiffels                                  EQ  37:46
+  2-1 CZE Jakub Voracek 4              Dominik Simon                                     EQ  44:19
+  3-1 CZE Dominik Kubalik 5            Jan Kovar, Filip Hronek                           EQ  51:41
+  4-1 CZE Ondrej Palat 1               Jan Kolar                                         EQ  53:08
+  5-1 CZE Jan Kovar 5                  Michal Moravcik                                   EQ  59:50 ENG
+
+---------------------------------------------------------------------------------------------------
+Halbfinale:
+---------------------------------------------------------------------------------------------------
+
+25.05.2019:
+Russland - Finnland
+
+Kanada - Tschechische Republik
 

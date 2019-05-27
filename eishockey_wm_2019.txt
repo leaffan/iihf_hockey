@@ -594,7 +594,101 @@ Halbfinale:
 ---------------------------------------------------------------------------------------------------
 
 25.05.2019:
-Russland - Finnland
+Russland - Finnland                              0-1 (0-0,0-0,0-1)
+  0-1 FIN Marko Anttila 2              Henri Jokiharju, Joel Kiviranta                   EQ  50:18
 
-Kanada - Tschechische Republik
+Kanada - Tschechische Republik                   5-1 (1-0,2-0,2-1)
+  1-0 CAN Mark Stone 8                 Troy Stecher                                      EQ   5:18
+  2-0 CAN Darnell Nurse 2              Sean Couturier                                    EQ  20:10
+  3-0 CAN Pierre-Luc Dubois 3          Jonathan Marchessault, Mark Stone                 EQ  25:06
+  4-0 CAN Kyle Turris 4                Anthony Mantha                                    EQ  46:26
+  5-0 CAN Thomas Chabot 2              Adam Henrique, Dylan Strome                       EQ  53:00
+  5-1 CZE Tomas Zohorna 1              Jan Kolar                                         EQ  53:59
 
+---------------------------------------------------------------------------------------------------
+Spiel um Platz 3:
+---------------------------------------------------------------------------------------------------
+
+Russland - Tschechische Republik                 3-2 (1-2,1-0,0-0,0-0,1-0)
+  1-0 RUS Mikhail Grigorenko 4         Mikhail Sergachyov                                EQ  13:00
+  1-1 CZE Michal Repik 4               David Sklenicka, Jan Rutta                        EQ  13:41
+  1-2 CZE Dominik Kubalik 6            Jan Kovar, Milan Gulas                            EQ  18:34
+  2-2 RUS Artyom Anisimov 4            Nikita Gusev                                      EQ  20:39
+  3-2 RUS Ilya Kovalchuk                                                                 GSW 70:00
+
+---------------------------------------------------------------------------------------------------
+Finale:
+---------------------------------------------------------------------------------------------------
+
+Kanada - Finnland                                1-3 (1-0,0-1,0-2)
+  1-0 CAN Shea Theodore 2              Anthony Mantha, Jared McCann                      EQ  10:02
+  1-1 FIN Marko Anttila 3              Sakari Manninen, Niko Ojamaki                     PP1 22:35
+  1-2 FIN Marko Anttila 4              Veli-Matti Savinainen                             EQ  42:35
+  1-3 FIN Harri Pesonen 4              Juhani Tyrvainen, Jani Hakanpaa                   EQ  55:54
+
+---------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------
+
+* Scorerliste:
+
+PL Player                    Cty GP  G  A  TP  PIM  +/-
+-------------------------------------------------------
+ 1 William Nylander          SWE  8  5 13  18    0  +16
+ 2 Nikita Kucherov           RUS 10  6 10  16    4  +11
+ 3 Nikita Gusev              RUS 10  4 12  16    0  +12
+   Jakub Voracek             CZE 10  4 12  16    2  +10
+ 5 Mark Stone                CAN 10  8  6  14    0  +10
+ 6 Anthony Mantha            CAN  9  7  7  14   16   +9
+ 7 Michael Frolik            CZE 10  7  7  14    2   +8
+ 8 Dominik Kubalik           CZE 10  6  6  12    0  +10
+ 9 Dominik Simon             CZE 10  4  8  12    2  +10
+10 Patrick Kane              USA  8  2 10  12    4    0
+11 Yevgeni Dadonov           RUS 10  7  4  11    0   +3
+12 Filip Hronek              CZE 10  3  8  11   22   +3
+13 Sakari Manninen           FIN 10  2  9  11    6  +10
+14 Patric Hornqvist          SWE  8  7  3  10   13  +11
+15 Jan Kovar                 CZE 10  5  5  10    6  +11
+16 Kyle Turris               CAN 10  4  6  10    8  +11
+17 Alexander Wennberg        SWE  6  3  7  10    0  +11
+18 Elias Pettersson          SWE  8  3  7  10    2    0
+19 Jonathan Marchessault     CAN 10  3  7  10    6   +6
+
+* Torhüter
+
+PL Player               Cty GP     Min  GAA  GA  SA  Pctg. SO
+-------------------------------------------------------------
+ 1 Andrei Vasilevski    RUS  8  488:02 1.60  13 240 94.58   2
+ 2 Kevin Lankinen       FIN  8  480:41 1.50  12 207 94.20   2
+ 3 Mathias Niederberger GER  4  237:14 1.77   7 120 94.17   0
+ 4 Leonardo Genoni      SUI  4  241:30 1.99   8 129 93.80   0
+ 5 Sebastian Dahm       DEN  5  307:18 1.95  10 138 92.75   1
+ 6 Matt Murray          CAN  7  418:09 2.01  14 188 92.55   1
+ 7 Cory Schneider       USA  6  361:55 2.49  15 188 92.02   0
+ 8 Reto Berra           SUI  4  204:16 2.06   7  83 91.57   2
+ 9 Elvis Merzlikins     LAT  5  237:10 2.78  11 128 91.41   0
+10 Kristers Gudlevskis  LAT  4  179:17 2.01   6  66 90.91   1
+
+
+* Wertvollster Spieler (MVP):
+
+Mark Stone (CAN)
+
+* Bester Stürmer:
+
+Nikita Kucherov (RUS)
+
+* Bester Verteidiger:
+
+Filip Hronek (CZE)
+
+* Bester Torhüter:
+
+Andrei Vasilevski (RUS)
+
+* All-Star Team:
+				     Andrei Vasilevski (RUS)
+		  Mikko Lehtonen (FIN) - Filip Hronek (CZE)
+Mark Stone (CAN) - Jakub Voracek (CZE) - William Nylander (SWE)
+
+---------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------

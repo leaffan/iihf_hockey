@@ -1,0 +1,638 @@
+---------------------------------------------------------------------------------------------------
+Eishockey A-Weltmeisterschaft 2016 / Russland / Moskau & St. Petersburg
+---------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------
+Vorrunde:
+---------------------------------------------------------------------------------------------------
+
+Gruppe A: Dänemark                     DEN
+		  Kasachstan                   KAZ
+		  Lettland                     LAT
+		  Norwegen                     NOR
+		  Russland                     RUS
+		  Schweden                     SWE
+		  Schweiz                      SUI
+		  Tschechische Republik        CZE
+
+06.05.2016:
+Schweden - Lettland                              2-1 (1-0,0-0,0-1,1-0)
+  1-0 SWE Jimmie Ericsson 1            Mikael Backlund, Johan Fransson                   EQ   2:52
+  1-1 LAT Kristaps Sotnieks 1          Mikelis Redlihs, Andris Dzerins                   PP1 52:29
+  2-1 SWE Gustav Nyquist 1             Alexander Wennberg                                EQ  64:06
+
+Tschechische Republik - Russland                 3-0 (1-0,1-0,1-0)
+  1-0 CZE Tomas Kundratek 1            Jan Kovar, Michal Kempny                          EQ  14:48
+  2-0 CZE Roman Cervenka 1             Jakub Jerabek, David Pastrnak                     PP1 20:48
+  3-0 CZE Michal Birner 1                                                                EQ  58:28 ENG
+
+07.05.2016:
+Schweiz - Kasachstan                             2-3 (1-0,0-1,1-1,0-0,0-1)
+  1-0 SUI Samuel Walser 1              Raphael Diaz, Sven Andrighetto                    EQ  14:56
+  1-1 KAZ Roman Savchenko 1                                                              SH1 30:57
+  1-2 KAZ Roman Starchenko 1           Yevgeni Rymarev                                   PP1 50:30
+  2-2 SUI Denis Hollenstein 1          Andres Ambuhl, Felicien du Bois                   PP1 52:01
+  2-3 KAZ Nigel Dawes 1                                                                  GWS 65:00
+
+Norwegen - Dänemark                              0-3 (0-0,0-2,0-1)
+  0-1 DEN Nicklas Jensen 1             Frederik Storm, Morten Madsen                     EQ  21:06
+  0-2 DEN Jesper B. Jensen 1           Lars Eller, Daniel Nielsen                        EQ  34:12
+  0-3 DEN Nicklas Jensen 2             Daniel Nielsen                                    EQ  59:45 ENG
+
+Lettland - Tschechische Republik                 3-4 (0-2,1-0,2-1,0-0,0-1)
+  0-1 CZE Tomas Plekanec 1             David Pastrnak, Roman Cervenka                    EQ   3:33
+  0-2 CZE Tomas Plekanec 2             Lukas Kaspar, Roman Cervenka                      PP1  6:23
+  1-2 LAT Roberts Bukarts 1            Andris Dzerins, Mikelis Redlihs                   EQ  35:26
+  2-2 LAT Zemgus Girgensons 1          Rodrigo Abols, Kaspars Daugavins                  PP1 48:20
+  3-2 LAT Mikelis Redlihs 1            Andris Dzerins, Roberts Bukarts                   EQ  57:41
+  3-3 CZE Michal Repik 1               Jakub Jerabek, Jan Kovar                          EQ  59:01 EA
+  3-4 CZE Lukas Kaspar 1                                                                 GWS 65:00
+
+08.05.2016:
+Kasachstan - Russland                            4-6 (3-3,0-1,1-2)
+  0-1 RUS Yevgeni Dadonov 1            Vadim Shipachyov, Anton Belov                     EQ   6:43
+  1-1 KAZ Dustin Boyd 1                Brandon Bochenski, Nigel Dawes                    PP1  8:04
+  2-1 KAZ Roman Starchenko 2           Maxim Khudyakov, Yevgeni Rymarev                  EQ   9:02
+  2-2 RUS Roman Lyubimov 1             Sergei Kalinin, Sergei Plotnikov                  EQ   9:21
+  2-3 RUS Sergei Mozyakin 1            Yevgeni Dadonov, Vadim Shipachyov                 PP2 11:11
+  3-3 KAZ Yevgeni Rymarev 1            Roman Starchenko                                  PP1 19:46
+  3-4 RUS Anton Belov 1                Pavel Datsyuk, Viktor Antipin                     PP1 38:02
+  4-4 KAZ Maxim Semyonov 1             Dustin Boyd, Nigel Dawes                          PP1 41:00
+  4-5 RUS Anton Belov 2                Maxim Chudinov, Sergei Mozyakin                   EQ  43:47
+  4-6 RUS Roman Lyubimov 2             Anton Belov, Pavel Datsyuk                        PP1 48:38
+
+Norwegen - Schweiz                               4-3 (1-1,2-0,0-2,1-0)
+  0-1 SUI Samuel Walser 2              Yannick Weber, Lino Martschini                    PP1  2:27
+  1-1 NOR Ken Andre Olimb 1            Mathis Olimb, Mats Zuccarello                     EQ  14:07 EA
+  2-1 NOR Martin Roymark 1             Kristian Forsberg                                 EQ  23:03
+  3-1 NOR Mathis Olimb 1               Ken Andre Olimb, Mats Rosseli Olsen               PP  38:03
+  3-2 SUI Simon Moser 1                Raphael Diaz, Nino Niederreiter                   EQ  43:24
+  3-3 SUI Felicien du Bois 1           Raphael Diaz, Andres Ambuhl                       EQ  59:50 EA
+  4-3 NOR Andreas Martinsen 1          Mathis Olimb, Mats Trygg                          PP1 63:23
+
+Schweden - Dänemark                              5-2 (0-1,4-0,1-0)
+  0-1 DEN Nikolaj Ehlers 1             Jesper B. Jensen, Lars Eller                      PP1 15:05
+  1-1 SWE Robert Rosen 1               Oscar Fantenberg, Mattias Ritola                  EQ  27:03
+  2-1 SWE Mikael Backlund 1            Jimmie Ericsson, Linus Omark                      PP1 28:30
+  3-1 SWE Magnus Nygren 1              Linus Omark, Johan Sundstrom                      PP2 37:06
+  4-1 SWE Mikael Backlund 2            Jimmie Ericsson, Linus Omark                      PP1 39:00
+  5-1 SWE Gustav Nyquist 2                                                               PP1 49:35
+  5-2 DEN Jesper B. Jensen 2           Patrick Bjorkstrand, Morten Green                 DEN 59:54
+
+09.05.2016:
+Lettland - Russland                              0-4 (0-0,0-2,0-2)
+  0-1 RUS Artemi Panarin 1             Pavel Datsyuk                                     EQ  20:29
+  0-2 RUS Yevgeni Dadonov 2            Vadim Shipachyov, Artemi Panarin                  EQ  27:34
+  0-3 RUS Vadim Shipachyov 1           Artemi Panarin, Yevgeni Dadonov                   EQ  47:02
+  0-4 RUS Artemi Panarin 2             Maxim Chudinov, Vadim Shipachyov                  PP1 57:30
+
+Schweden - Tschechische Republik                 2-4 (2-0,0-3,0-1)
+  1-0 SWE Robert Rosen 2               Erik Gustafsson, Alexander Wennberg               PP1  9:15
+  2-0 SWE Martin Lundberg 1            Mattias Sjogren                                   SH1 19:52
+  2-1 CZE David Pastrnak 1             Roman Cervenka, Jakub Jerabek                     EQ  26:45
+  2-2 CZE Jan Kovar 1                  Jakub Jerabek, Michal Birner                      EQ  33:38
+  2-3 CZE Michal Birner 2                                                                SH1 37:59
+  2-4 CZE Michal Birner 3                                                                EQ  54:32
+
+10.05.2016:
+Schweiz - Dänemark                               3-2 (0-2,0-0,2-0,1-0)
+  0-1 DEN Frederik Storm 1             Daniel Nielsen, Nicklas Jensen                    PP1  7:08
+  0-2 DEN Nikolaj Ehlers 2             Lars Eller, Jannik Hansen                         PP1 18:54
+  1-2 SUI Yannick Weber 1              Simon Moser, Nino Niederreiter                    EQ  49:42
+  2-2 SUI Nino Niederreiter 1          Simon Moser, Raphael Diaz                         EQ  57:58
+  3-2 SUI Eric Blum 1                  Andres Ambuhl                                     EQ  64:08
+
+Kasachstan - Norwegen                            2-4 (1-1,1-2,0-1)
+  0-1 NOR Johannes Johannesen 1        Kristian Forsberg                                 EQ   3:24
+  1-1 KAZ Nigel Dawes 2                Dustin Boyd, Maxim Semyonov                       PP1  7:00
+  1-2 NOR Ken Andre Olimb 2            Mats Rosseli Olsen, Mattias Norstebo              EQ  33:04
+  2-2 KAZ Brandon Bochenski 1          Roman Savchenko, Nigel Dawes                      PP1 35:47
+  2-3 NOR Mathis Olimb 2               Ken Andre Olimb, Jonas Holos                      EQ  38:17
+  2-4 NOR Mats Zuccarello 1            Lars Haugen                                       EQ  57:37 ENG
+
+11.05.2016:
+Schweiz - Lettland                               5-4 (0-0,3-3,2-1)
+  1-0 SUI Nino Niederreiter 2          Sven Andrighetto, Raphael Diaz                    PP1 23:33
+  2-0 SUI Nino Niederreiter 3          Felicien du Bois, Raphael Diaz                    PP1 26:06
+  3-0 SUI Gregory Hofmann 1            Sven Andrighetto, Reto Schappi                    EQ  28:30
+  3-1 LAT Mikelis Redlihs 2            Kristaps Sotnieks, Oskars Cibulskis               PP1 33:24
+  3-2 LAT Mikelis Redlihs 3            Kristaps Sotnieks, Oskars Cibulskis               PP1 37:23
+  3-3 LAT Ronalds Kenins 1                                                               EQ  38:36
+  4-3 SUI Sven Andrighetto 1           Patrick Geering                                   EQ  45:56
+  4-4 LAT Aleksejs Sirokovs 1          Guntis Galvins, Kaspars Daugavins                 EQ  46:22
+  5-4 SUI Eric Blum 2                                                                    EQ  58:31
+
+Schweden - Kasachstan                            7-3 (3-1,3-0,1-2)
+  1-0 SWE Mikael Backlund 3            Linus Omark, Adam Larsson                         EQ  12:20
+  2-0 SWE Linus Klasen 1               Gustav Nyquist, Alexander Wennberg                EQ  15:11
+  3-0 SWE Adam Larsson 1               John Norman, Mattias Sjogren                      EQ  16:15
+  3-1 KAZ Dustin Boyd 2                Nigel Dawes                                       PP1 19:59
+  4-1 SWE Gustav Nyquist 3             Alexander Wennberg, Linus Klasen                  PP1 24:25
+  5-1 SWE Gustav Nyquist 4             Linus Omark, Jimmie Ericsson                      EQ  28:51
+  6-1 SWE Alexander Wennberg 1                                                           SH1 30:42
+  6-2 KAZ Vladimir Markelov 1          Konstantin Pushkaryov, Ilya Solaryov              EQ  46:49
+  6-3 KAZ Roman Savchenko 2            Yevgeni Rymarev, Pavel Poluektov                  EQ  47:57
+  7-3 SWE Gustav Nyquist 5             Johan Fransson, Alexander Wennberg                SH1 54:02
+
+12.05.2016:
+Tschechische Republik - Norwegen                 7-0 (3-0,4-0,0-0)
+  1-0 CZE Roman Cervenka 2             David Pastrnak, Tomas Kundratek                   EQ   5:11
+  2-0 CZE Tomas Zohorna 1                                                                EQ   9:33
+  3-0 CZE Robert Kousal 1                                                                EQ  19:45
+  4-0 CZE Lukas Kaspar 2               Tomas Kundratek                                   EQ  22:10
+  5-0 CZE Radim Simek 1                Michal Birner                                     EQ  28:37
+  6-0 CZE Michal Repik 2               Jakub Jerabek, Jan Kovar                          EQ  34:53
+  7-0 CZE Lukas Kaspar 3               Tomas Zohorna, Milan Doudera                      PP1 39:09
+
+Russland - Dänemark                             10-1 (3-0,4-1,3-0)
+  1-0 RUS Alexei Marchenko 1           Yevgeni Dadonov, Nikita Zaitsev                   EQ   2:38
+  2-0 RUS Maxim Chudinov 1             Vadim Shipachyov, Artemi Panarin                  PP1 12:45
+  3-0 RUS Nikita Zaitsev 1             Alexander Burmistrov                              EQ  13:06
+  3-1 DEN Jannik Hansen 1              Nikolaj Ehlers, Lars Eller                        EQ  29:56
+  4-1 RUS Sergei Mozyakin 2            Pavel Datsyuk, Roman Lyubimov                     PP1 30:43
+  5-1 RUS Sergei Mozyakin 3            Pavel Datsyuk, Anton Belov                        EQ  33:42
+  6-1 RUS Sergei Shirokov 1            Vyacheslav Voinov                                 EQ  33:52
+  7-1 RUS Yevgeni Dadonov 3            Vadim Shipachyov, Artemi Panarin                  EQ  37:37
+  8-1 RUS Vadim Shipachyov 2           Yevgeni Dadonov, Artemi Panarin                   PP1 41:50
+  9-1 RUS Vadim Shipachyov 3           Artemi Panarin, Yevgeni Dadonov                   EQ  44:38
+ 10-1 RUS Artemi Panarin 3             Vyacheslav Voinov, Vadim Shipachyov               PP1 55:31
+
+13.05.2016:
+Tschechische Republik - Kasachstan               3-1 (1-0,0-0,2-1)
+  1-0 CZE Tomas Plekanec 3             David Pastrnak, Roman Cervenka                    EQ   6:55
+  2-0 CZE Tomas Plekanec 4             David Pastrnak                                    EQ  42:51
+  2-1 KAZ Nigel Dawes 3                Dustin Boyd, Vyacheslav Tryasunov                 EQ  55:30
+  3-1 CZE Robert Kousal 2              Michal Birner, Michal Repik                       EQ  58:51 ENG
+
+Dänemark - Lettland                              3-2 (1-1,1-1,0-0,0-0,1-0)
+  1-0 DEN Nicklas Jensen 3             Morten Madsen, Morten Green                       PP1 11:57
+  1-1 LAT Andris Dzerins 1             Roberts Bukarts, Oskars Cibulskis                 PP1 17:45
+  1-2 LAT Kaspars Daugavins 1          Roberts Bukarts, Andris Dzerins                   PP1 21:57
+  2-2 DEN Morten Poulsen 1             Mikkel Boedker, Mads Christensen                  EQ  28:28
+  3-2 DEN Nicklas Jensen 4                                                               GWS 65:00
+
+14.05.2016:
+Norwegen - Schweden                              2-3 (0-0,0-1,2-2)
+  0-1 SWE Gustav Nyquist 6                                                               EQ  20:56
+  0-2 SWE Martin Lundberg 2            Johan Fransson, Mattias Sjogren                   SH1 42:43
+  1-2 NOR Mats Rosseli Olsen 1         Mathis Olimb, Johannes Johannesen                 EQ  43:41
+  1-3 SWE Robert Rosen 3               Erik Gustafsson, Alexander Wennberg               PP1 51:47
+  2-3 NOR Andreas Martinsen 2          Jonas Holos, Mathis Olimb                         EQ  58:02 EA
+
+Russland - Schweiz                               5-1 (1-0,1-0,3-1)
+  1-0 RUS Ivan Telegin 1               Roman Lyubimov                                    EQ   5:13
+  2-0 RUS Yevgeni Kuznetsov 1          Alexander Ovechkin                                EQ  28:40
+  3-0 RUS Ivan Telegin 2               Roman Lyubimov                                    EQ  48:50
+  4-0 RUS Sergei Shirokov 2            Nikita Zaitsev                                    EQ  55:20
+  4-1 SUI Simon Moser 2                Yannick Weber, Nino Niederreiter                  EQ  58:44
+  5-1 RUS Sergei Mozyakin 4            Pavel Datsyuk, Stepan Sannikov                    EQ  59:43
+
+Kasachstan - Lettland                            1-2 (1-0,0-1,0-1)
+  1-0 KAZ Nikita Ivanov 1                                                                EQ   4:37
+  1-1 LAT Kaspars Daugavins 2                                                            EQ  35:14
+  1-2 LAT Maris Bicevskis 1            Miks Indrasis, Oskars Cibulskis                   EQ  54:49
+
+15.05.2016:
+Dänemark - Tschechische Republik                 2-1 (0-0,0-1,1-0,0-0,1-0)
+  0-1 CZE Tomas Plekanec 5             Roman Cervenka                                    EQ  24:09
+  1-1 DEN Morten Madsen 1              Frederik Storm, Nicklas Jensen                    PP1 43:10
+  2-1 DEN Nikolaj Ehlers 3                                                               GWS 65:00
+
+Schweiz - Schweden                               2-3 (1-0,0-1,1-1,0-0,0-1)
+  1-0 SUI Sven Andrighetto 2           Noah Schneeberger                                 EQ  18:21
+  1-1 SWE Johan Sundstrom 1            Linus Omark, Magnus Nygren                        PP1 31:12
+  2-1 SUI Denis Hollenstein 2          Eric Blum, Andres Ambuhl                          PP1 44:58
+  2-2 SWE Gustav Nyquist 7             Adam Larsson, Robert Rosen                        PP1 50:02
+  2-3 SWE Andre Burakovsky 1                                                             GWS 65:00
+
+16.05.2016:
+Russland - Norwegen                              3-0 (0-0,2-0,1-0)
+  1-0 RUS Ivan Telegin 3               Dmitri Orlov, Sergei Kalinin                      EQ  22:09
+  2-0 RUS Artemi Panarin 4             Vadim Shipachyov                                  EQ  37:52
+  3-0 RUS Roman Lyubimov 3             Alexei Yemelin, Dmitri Orlov                      EQ  42:31
+
+Dänemark - Kasachstan                            4-1 (3-0,1-1,0-0)
+  1-0 DEN Markus Lauridsen 1           Lars Eller, Jannik Hansen                         PP1  8:56
+  2-0 DEN Jannik Hansen 2              Frederik Storm                                    PP1 16:46
+  3-0 DEN Nicklas Jensen 5             Frederik Storm                                    PP1 17:50
+  3-1 KAZ Nigel Dawes 4                Brandon Bochenski, Alexander Lipin                EQ  23:57
+  4-1 DEN Nikolaj Ehlers 4             Markus Lauridsen                                  PP1 29:53
+
+17.05.2016:
+Tschechische Republik - Schweiz                  5-4 (1-1,1-0,3-3)
+  0-1 SUI Denis Hollenstein 3          Sven Andrighetto, Reto Schappi                    EQ  11:36
+  1-1 CZE Michal Birner 4              Michal Kempny, Michal Repik                       PP1 17:00
+  2-1 CZE Lukas Kaspar 4                                                                 PS  24:50
+  3-1 CZE Martin Zatovic 1                                                               EQ  41:45
+  3-2 SUI Simon Moser 3                Felicien du Bois, Morris Trachsler                PP1 45:38
+  4-2 CZE Tomas Zohorna 2              Robert Kousal, Jan Kolar                          EQ  49:59
+  5-2 CZE Michal Jordan 1                                                                SH1 54:15 ENG
+  5-3 SUI Noah Schneeberger 1          Simon Moser, Gregory Hofmann                      EQ  55:42
+  5-4 SUI Sven Andrighetto 3           Denis Hollenstein                                 EQ  59:34 EA
+
+Lettland - Norwegen                              1-3 (1-1,0-2,0-0)
+  1-0 LAT Miks Indrasis 1              Guntis Galvins                                    PP1 11:42
+  1-1 NOR Ken Andre Olimb 3            Mats Rosseli Olsen                                EQ  16:12
+  1-2 NOR Jonas Holos 1                Andreas Martinsen, Mats Zuccarello                EQ  20:40
+  1-3 NOR Johannes Johannesen 2                                                          EQ  20:56
+
+Russland - Schweden                              4-1 (2-0,2-0,0-1)
+  1-0 RUS Yevgeni Dadonov 4            Artemi Panarin, Vadim Shipachyov                  EQ  14:43
+  2-0 RUS Artemi Panarin 5             Vadim Shipachyov, Alexei Marchenko                EQ  17:52
+  3-0 RUS Pavel Datsyuk 1              Nikita Zaitsev                                    EQ  21:34
+  4-0 RUS Roman Lyubimov 4             Sergei Mozyakin, Pavel Datsyuk                    EQ  29:40
+  4-1 SWE Mattias Ekholm 1             Adam Larsson, Alexander Wennberg                  PP1 41:06
+
+Tabelle: 1 Tschechische Republik       7 5 1 1 0 27-12 18
+         2 Russland                    7 6 0 0 1 32-10 18
+         3 Schweden                    7 3 2 0 2 22-17 13
+         4 Dänemark                    7 2 2 1 3 17-22 11
+		 5 Schweiz                     7 1 1 3 2 19-25  8
+         6 Norwegen                    7 2 1 0 4 13-22  8
+         7 Lettland                    7 1 0 3 3 13-22  6
+         8 Kasachstan                  7 0 1 0 6 15-28  2
+
+---------------------------------------------------------------------------------------------------
+	
+Gruppe B: Dänemark                     DEN
+		  Finnland                     FIN
+		  Norwegen                     NOR
+          Russland                     RUS
+		  Slowakische Republik         SVK
+		  Slowenien                    SLO
+		  USA                          USA
+		  Weißrussland                 BLR
+
+06.05.2016:
+USA - Kanada                                     1-5 (1-2,0-1,0-2)
+  1-0 USA Patrick Maroon 1             Kyle Connor, David Warsofsky                      PP1  4:54
+  1-1 CAN Taylor Hall 1                Derick Brassard, Corey Perry                      EQ   5:25
+  1-2 CAN Brendan Gallagher 1          Ryan O'Reilly                                     EQ   8:48
+  1-3 CAN Matt Duchene 1               Cody Ceci, Ryan Murray                            EQ  31:37
+  1-4 CAN Boone Jenner 1               Ryan O'Reilly                                     EQ  45:54
+  1-5 CAN Brad Marchand 1              Matt Duchene                                      SH1 51:16
+
+Finnland - Weißrussland                          6-2 (0-0,4-1,2-1)
+  1-0 FIN Patrik Laine 1               Aleksander Barkov                                 EQ  21:45
+  2-0 FIN Mikko Koivu 1                Mikael Granlund, Esa Lindell                      EQ  32:28
+  2-1 BLR Andrei Stas 1                Alexander Pavlovich                               SH1 37:55
+  3-1 FIN Patrik Laine 2               Mikko Koivu, Jussi Jokinen                        PP2 38:36
+  4-1 FIN Mikael Granlund 1            Patrik Laine, Aleksander Barkov                   PP1 39:56
+  5-1 FIN Antti Pihlstrom 1            Teemu Pulkkinen                                   EQ  42:59
+  6-1 FIN Mikael Granlund 2            Anssi Salmela, Sebastian Aho                      EQ  47:51
+  6-2 BLR Alexei Kalyuzhny 1           Andrei Kostitsyn, Sergei Kostitsyn                EQ  51:01
+
+07.05.2016:
+Slowakische Republik - Ungarn                    4-1 (2-1,1-0,1-0)
+  1-0 SVK Tomas Marcinko 1             Dominik Granak, Vladimir Dravecky                 EQ   7:07
+  1-1 HUN Frank Banham 1               Vilmos Gallo, Istvan Bartalis                     PP1 13:30
+  2-1 SVK Tomas Jurco 1                Andrej Sekera, Martin Marincin                    EQ  17:43
+  3-1 SVK Andrej Sekera 1              Tomas Jurco, Martin Marincin                      EQ  35:09
+  4-1 SVK Patrik Lusnak 1              Tomas Hrnka, Ivan Svarny                          EQ  57:43 ENG
+
+Frankreich - Deutschland                         3-2 (1-0,1-2,0-0,0-0,1-0)
+  1-0 FRA Damien Raux 1                Jordann Perret, Laurent Meunier                   EQ   3:38
+  1-1 GER Tobias Rieder 1              Philip Gogulla, Felix Schutz                      PP1 20:26
+  1-2 GER Felix Schutz 1               Philip Gogulla, Patrick Hager                     EQ  36:50
+  2-2 FRA Valentin Claireaux 1         Gregory Beron, Florian Chakiachvili               EQ  39:10
+  3-2 FRA Damien Fleury 1                                                                GWS 65:00
+
+Weißrussland - USA                               3-6 (0-2,2-3,1-1)
+  0-1 USA Miles Wood 1                 Frank Vatrano, Vince Hinostroza                   EQ   9:58
+  0-2 USA Chris Wideman 1              Auston Matthews, Dylan Larkin                     PP1 13:38
+  0-3 USA Dylan Larkin 1               Jordan Schroeder                                  PP1 22:13
+  1-3 BLR Geoff Platt 1                Andei Stepanov, Charles Linglet                   PP1 27:10
+  1-4 USA Noah Hanifin 1               Vince Hinostroza, Tyler Motte                     EQ  28:09
+  1-5 USA Auston Matthews 1            Kyle Connor, Noah Hanifin                         PP1 34:25
+  2-5 BLR Andrei Stas 2                                                                  EQ  38:12
+  3-5 BLR Dmitri Korobov 1             Sergei Kostitsyn, Andrei Stepanov                 PP2 49:28
+  3-6 USA Auston Matthews 2            Frank Vatrano, Chris Wideman                      EQ  54:40
+
+08.05.2016:
+Ungarn - Kanada                                  1-7 (1-2,0-4,0-1)
+  0-1 CAN Mark Scheifele 1             Mark Stone, Connor McDavid                        PP1  5:54
+  0-2 CAN Corey Perry 1                Taylor Hall, Derick Brassard                      EQ  10:04
+  1-2 HUN Istvan Bartalis 1                                                              EQ  18:14
+  1-3 CAN Mark Stone 1                 Cody Ceci, Sam Reinhart                           EQ  27:12
+  1-4 CAN Brad Marchand 2              Connor McDavid, Michael Matheson                  EQ  29:05
+  1-5 CAN Derick Brassard 1            Chris Tanev, Morgan Rielly                        EQ  31:36
+  1-6 CAN Michael Matheson 1           Ben Hutton, Mark Scheifele                        EQ  32:45
+  1-7 CAN Taylor Hall 2                Michael Matheson                                  EQ  44:35
+
+Finnland - Deutschland                           5-1 (2-0,2-1,1-0)
+  1-0 FIN Patrik Laine 3               Juuso Hietanen, Jussi Jokinen                     PP1  6:22
+  2-0 FIN Leo Komarov 1                Jussi Jokinen, Patrik Laine                       PP1  9:08
+  3-0 FIN Sebastian Aho 1              Mikael Granlund, Ville Pokka                      EQ  29:53
+  4-0 FIN Jarno Koskiranta 1           Mika Pyorala, Leo Komarov                         EQ  37:50
+  4-1 GER Brooks Macek 1               Leon Draisaitl, Dominik Kahun                     PP1 38:42
+  5-1 FIN Patrik Laine 4               Mikko Koivu, Mikael Granlund                      PP1 59:57
+
+Frankreich - Slowakische Republik                1-5 (1-2,0-2,0-1)
+  1-0 FRA Jordann Perret 1             Gregory Beron                                     EQ   1:09
+  1-1 SVK Andrej Sekera 2              Libor Hudacek, Marek Viedensky                    EQ   3:55
+  1-2 SVK Dominik Granak 1             Vladimir Dravecky, Patrik Lusnak                  EQ  13:55
+  1-3 SVK Martin Bakos 1               Andrej Meszaros, Michal Sersen                    PP1 34:52
+  1-4 SVK Libor Hudacek 1              Tomas Jurco, Marek Viedensky                      EQ  35:40
+  1-5 SVK Christian Jaros 1            Marek Viedensky, Tomas Jurco                      EQ  57:55
+
+09.05.2016:
+Weißrussland - Kanada                            0-8 (0-1,0-4,0-3)
+  0-1 CAN Derick Brassard 2            Corey Perry, Matt Duchene                         PP1 16:26
+  0-2 CAN Corey Perry 2                Ryan Murray                                       EQ  21:03
+  0-3 CAN Ryan O'Reilly 1              Boone Jenner, Cody Ceci                           SH1 23:58
+  0-4 CAN Matt Duchene 2               Derick Brassard, Cody Ceci                        PP1 31:19
+  0-5 CAN Taylor Hall 3                Connor McDavid                                    EQ  31:39
+  0-6 CAN Ryan O'Reilly 2              Matt Duchene, Mark Scheifele                      EQ  41:26
+  0-7 CAN Mark Stone 2                 Mark Scheifele                                    EQ  49:17
+  0-8 CAN Michael Matheson 2           Brendan Gallagher, Connor McDavid                 PP1 53:52
+
+Finnland - USA                                   3-2 (2-1,0-0,1-1)
+  1-0 FIN Mikko Koivu 2                Mikael Granlund, Sebastian Aho                    EQ   9:16
+  2-0 FIN Antti Pihlstrom 2            Teemu Pulkkinen, Tomi Sallinen                    EQ  12:04
+  2-1 USA Frank Vatrano 1              Auston Matthews                                   EQ  13:45
+  2-2 USA Connor Murphy 1              Patrick Maroon, Dylan Larkin                      EQ  40:53
+  3-2 FIN Leo Komarov 2                Aleksander Barkov, Jussi Jokinen                  PP1 44:16
+
+10.05.2016:
+Slowakische Republik - Deutschland               1-5 (1-0,0-3,0-2)
+  1-0 SVK Peter Cehlarik 1             Marek Bartanus, Juraj Mikus                       EQ   8:42
+  1-1 GER Patrick Hager 1              Felix Schutz, Philip Gogulla                      EQ  24:23
+  1-2 GER Philip Gogulla 1             Moritz Muller, Patrick Hager                      EQ  28:57
+  1-3 GER Patrick Reimer 1             Dominik Kahun, Leon Draisaitl                     PP1 34:48
+  1-4 GER Brooks Macek 2               Constantin Braun, Moritz Muller                   EQ  43:45
+  1-5 GER Dominik Kahun 1              Patrick Reimer, Tobias Rieder                     EQ  54:36
+
+Ungarn - Frankreich                              2-6 (1-3,0-1,1-2)
+  0-1 FRA Nicolas Ritz 1               Yohann Auvitu, Maxime Moisand                     EQ   9:14
+  1-1 HUN Marton Vas 1                 Gergo Nagy, Kevin Wehrs                           PP1 13:10
+  1-2 FRA Sacha Treille 1                                                                EQ  17:28
+  1-3 FRA Damien Fleury 2              Pierre-Edouard Bellemare, Yohann Auvitu           PP1 19:26
+  1-4 FRA Florian Chakiachvili 1       Yorick Treille                                    EQ  38:03
+  2-4 HUN Istvan Sofron 1              Marton Vas, Istvan Bartalis                       EQ  47:58
+  2-5 FRA Sacha Treille 2              Pierre-Edouard Bellemare, Damien Fleury           PP1 53:03
+  2-6 FRA Sacha Treille 3              Pierre-Edouard Bellemare, Valentin Claireaux      EQ  56:11
+
+11.05.2016:
+Slowakische Republik - Weißrussland              2-4 (0-0,2-0,0-4)
+  1-0 SVK Andrej Sekera 3              Martin Reway, Marko Dano                          PP2 20:47
+  2-0 SVK Tomas Jurco 2                Juraj Mikus, Libor Hudacek                        EQ  36:26
+  2-1 BLR Kiril Gotovets 1             Yevgeni Lisovets                                  EQ  42:22
+  2-2 BLR Artur Gavrus 1               Kiril Gotovets, Yevgeni Kovyrshin                 EQ  48:34
+  2-3 BLR Andrei Stepanov 1            Yevgeni Lisovets                                  EQ  54:42
+  2-4 BLR Charles Linglet 1            Geoff Platt, Yevgeni Lisovets                     EQ  57:16
+
+Finnland - Ungarn                                3-0 (0-0,1-0,2-0)
+  1-0 FIN Atte Ohtamaa 1               Leo Komarov                                       EQ  36:22
+  2-0 FIN Mikko Koivu 3                Mikael Granlund, Leo Komarov                      EQ  49:27
+  3-0 FIN Aleksander Barkov 1          Patrik Laine, Jussi Jokinen                       PP1 56:34
+
+12.05.2016:
+USA - Frankreich                                 4-0 (0-0,3-0,1-0)
+  1-0 USA Chris Wideman 2              Nick Foligno, Dylan Larkin                        PP1 34:23
+  2-0 USA Connor Murphy 2              Auston Matthews, Frank Vatrano                    EQ  36:30
+  3-0 USA J.T. Compher 1               Matt Hendricks, Tyler Motte                       EQ  39:55
+  4-0 USA Brady Skjei 1                Dylan Larkin                                      EQ  41:19
+
+Kanada - Deutschland                             5-2 (1-0,1-2,3-0)
+  1-0 CAN Taylor Hall 4                Ryan Murray                                       EQ   3:54
+  2-0 CAN Corey Perry 3                Matt Duchene, Derick Brassard                     PP1 23:22
+  2-1 GER Patrick Reimer 2             Marcel Noebels, Dominik Kahun                     EQ  31:31
+  2-2 GER Simon Akdag 1                Philip Gogulla, Felix Schutz                      EQ  37:36
+  3-2 CAN Taylor Hall 5                Connor McDavid, Michael Matheson                  EQ  43:12
+  4-2 CAN Boone Jenner 2               Morgan Rielly, Derick Brassard                    EQ  46:50
+  5-2 CAN Cody Ceci 1                  Ryan O'Reilly                                     PP1 53:17
+
+13.05.2016:
+USA - Ungarn                                     5-1 (0-0,3-0,2-1)
+  1-0 USA Nick Foligno 1               Chris Wideman, Noah Hanifin                       PP1 24:37
+  2-0 USA Vince Hinostroza 1           Hudson Fasching                                   EQ  24:55
+  3-0 USA Dylan Larkin 2               Jake McCabe, Connor Murphy                        EQ  34:12
+  4-0 USA Nick Foligno 2                                                                 EQ  52:07
+  5-0 USA Connor Murphy 3              Nick Foligno, Patrick Maroon                      EQ  55:20
+  5-1 HUN Istvan Sofron 2              Istvan Bartalis, Andrew Sarauer                   PP1 57:59
+
+Deutschland - Weißrussland                       5-2 (3-0,1-1,1-1)
+  1-0 GER Patrick Reimer 3             Moritz Muller                                     EQ   4:26
+  2-0 GER Leon Draisaitl 1             Marcel Noebels, Brooks Macek                      EQ   5:44
+  3-0 GER Felix Schutz 2               Philip Gogulla, Patrick Hager                     PP1 10:47
+  3-1 BLR Andrei Stepanov 2            Vitali Koval, Charles Linglet                     PP1 28:08
+  4-1 GER Brooks Macek 3               Denis Reul, Marcel Noebels                        EQ  34:23
+  4-2 BLR Andrei Stas 3                Yevgeni Lisovets, Vitali Koval                    EQ  49:14
+  5-2 GER Philip Gogulla 2             Daryl Boyle                                       PP1 59:51 ENG
+
+14.05.2016:
+Frankreich - Finnland                            1-3 (0-0,0-3,1-0)
+  0-1 FIN Esa Lindell 1                Mikael Granlund, Mikko Koivu                      PP1 25:00
+  0-2 FIN Aleksander Barkov 2          Patrik Laine, Jussi Jokinen                       EQ  30:40
+  0-3 FIN Patrik Laine 5               Jussi Jokinen, Aleksander Barkov                  EQ  34:50
+  1-3 FRA Pierre-Edouard Bellemare 1   Sacha Treille, Yohann Auvitu                      PP2 52:31
+
+Ungarn - Weißrussland                            5-2 (2-1,2-1,1-0)
+  1-0 HUN Gergo Nagy 1                 Daniel Koger, Andrew Sarauer                      EQ   5:31
+  2-0 HUN Janos Vas 1                  Andrew Sarauer                                    SH1 10:31
+  2-1 BLR Geoff Platt 2                Andrei Stepanov                                   PP1 12:13
+  2-2 BLR Artur Gavrus 2               Yevgeni Kovyrshin, Andrei Stepanov                EQ  26:43
+  3-2 HUN Balazs Sebok 1               Bence Sziranyi                                    EQ  20:32
+  4-2 HUN Vilmos Gallo 1               Istvan Sofron, Bence Sziranyi                     EQ  33:49
+  5-2 HUN Janos Vas 2                                                                    SH1 59:57 ENG
+
+Kanada - Slowakische Republik                    5-0 (2-0,2-0,1-0)
+  1-0 CAN Morgan Rielly 1              Derick Brassard                                   EQ  11:09
+  2-0 CAN Matt Duchene 3               Brad Marchand                                     EQ  18:30
+  3-0 CAN Taylor Hall 6                Mark Stone, Connor McDavid                        PP1 33:56
+  4-0 CAN Mark Scheifele 2             Sam Reinhart, Mark Stone                          EQ  38:35
+  5-0 CAN Derick Brassard 3            Corey Perry, Ryan Murray                          EQ  50:27
+
+15.05.2016:
+Deutschland - USA                                3-2 (2-1,0-1,1-0)
+  1-0 GER Patrick Hager 2              Felix Schutz, Daryl Boyle                         PP1  2:19
+  1-1 USA Jake McCabe 1                J.T. Compher, Connor Murphy                       EQ  10:35
+  2-1 GER Christian Ehrhoff 1          Felix Schutz, Patrick Hager                       EQ  13:06
+  2-2 USA Auston Matthews 3            Brock Nelson                                      PP1 20:26
+  3-2 GER Korbinian Holzer 1           Marcel Goc                                        EQ  59:27
+
+Slowakische Republik - Finnland                  0-5 (0-0,0-2,0-3)
+  0-1 FIN Mikko Koivu 4                Esa Lindell, Sebastian Aho                        PP1 31:07
+  0-2 FIN Antti Pihlstrom 3            Tomi Sallinen, Ville Pokka                        EQ  31:47
+  0-3 FIN Aleksander Barkov 3          Juuso Hietanen, Topi Jaakola                      EQ  46:46 EA
+  0-4 FIN Jussi Jokinen 1              Juuso Hietanen, Aleksander Barkov                 PP1 59:45
+  0-5 FIN Patrik Laine 6               Aleksander Barkov                                 EQ  59:57
+
+16.05.2016:
+Kanada - Frankreich                              4-0 (1-0,1-0,2-0)
+  1-0 CAN Mark Stone 3                 Taylor Hall, Connor McDavid                       PP1  8:32
+  2-0 CAN Matt Duchene 4               Corey Perry, Ryan Ellis                           EQ  35:26
+  3-0 CAN Mark Scheifele 3             Mark Stone, Brad Marchand                         EQ  43:51
+  4-0 CAN Corey Perry 4                Ryan O'Reilly, Brendan Gallagher                  EQ  54:45
+
+Deutschland - Ungarn                             4-2 (0-1,1-0,3-1)
+  0-1 HUN Istvan Sofron 3              Istvan Bartalis                                   EQ   9:09
+  1-1 GER Patrick Hager 3                                                                PP1 31:42
+  2-1 GER Denis Reul 1                                                                   EQ  41:22
+  2-2 HUN Kevin Wehrs 1                Balint Magosi                                     EQ  45:14
+  3-2 GER Constantin Braun 1           Sinan Akdag, Leon Draisaitl                       EQ  57:24
+  4-2 GER Marcel Goc 1                 Yannic Seidenberg, Thomas Greiss                  EQ  59:27 ENG
+
+17.05.2016:
+USA - Slowakische Republik                       2-3 (0-1,1-0,1-1,0-1)
+  0-1 SVK Christian Jaros 2            Marek Viedensky                                   EQ  18:39
+  1-1 USA Brock Nelson 1               David Warsofsky, Frank Vatrano                    PP1 27:15
+  2-1 USA Nick Foligno 3               Dylan Larkin                                      EQ  42:53
+  2-2 SVK Pavol Skalicky 1             Tomas Marcinko, Dominik Granak                    EQ  52:14
+  2-3 SVK Marko Dano 1                 Ivan Svarny, Andrej Meszaros                      EQ  60:59
+
+Weißrussland - Frankreich                        3-0 (0-0,2-0,1-0)
+  1-0 BLR Andrei Stas 4                Charles Linglet, Kiril Gotovets                   EQ  25:12
+  2-0 BLR Geoff Platt 3                Charles Linglet, Kiril Gotovets                   EQ  38:23
+  3-0 BLR Andrei Stas 5                Charles Linglet, Geoff Platt                      EQ  44:59
+
+Kanada - Finnland                                0-4 (0-0,0-3,0-1)
+  0-1 FIN Tommi Kivisto 1              Mikko Rantanen                                    EQ  26:10
+  0-2 FIN Leo Komarov 3                Mikael Granlund                                   EQ  36:03
+  0-3 FIN Mika Pyorala 1               Sebastian Aho                                     EQ  38:50
+  0-4 FIN Jarno Koskiranta 2           Mika Pyorala                                      EQ  42:32
+
+Tabelle: 1 Finnland                    7 7 0 0 0 29- 6 21
+         2 Kanada                      7 6 0 0 1 34- 8 18
+         3 Deutschland                 7 4 0 1 2 22-20 13
+         4 USA                         7 3 0 1 3 22-18 10
+         5 Slowakische Republik        7 2 1 0 4 15-24  8
+         6 Weißrussland                7 2 0 0 5 16-32  6
+         7 Frankreich                  7 1 1 0 5 11-23  5
+         8 Ungarn                      7 1 0 0 6 12-31  3
+
+---------------------------------------------------------------------------------------------------
+Viertelfinale:
+---------------------------------------------------------------------------------------------------
+
+19.05.2016:
+Tschechische Republik - USA                      1-2 (1-0,0-1,0-0,0-0,0-1)
+  1-0 CZE Tomas Zohorna 3                                                                PS  15:23
+  1-1 USA Auston Matthews 4            Frank Vatrano, Chris Wideman                      EQ  21:27
+  1-2 USA Auston Matthews 5                                                              GWS 70:00
+
+Finnland - Dänemark                              5-1 (1-0,2-1,2-0)
+  1-0 FIN Mikael Granlund 3            Mikko Koivu, Leo Komarov                          EQ  14:29
+  2-0 FIN Jarno Koskiranta 3           Mika Pyorala, Atte Ohtamaa                        EQ  21:45
+  2-1 DEN Lars Eller 1                 Mads Christensen, Nikolaj Ehlers                  PP1 31:42
+  3-1 FIN Patrik Laine 7               Juuso Hietanen, Topi Jaakola                      EQ  38:57
+  4-1 FIN Jussi Jokinen 2              Mikko Koivu                                       EQ  57:46 ENG
+  5-1 FIN Mikael Granlund 4                                                              EQ  58:07
+
+Russland - Deutschland                           4-1 (0-1,3-0,1-0)
+  0-1 GER Patrick Reimer 4                                                               EQ   4:45
+  1-1 RUS Vadim Shipachyov 4           Yevgeni Dadonov, Anton Belov                      EQ  20:40
+  2-1 RUS Yevgeni Dadonov 5            Vadim Shipachyov                                  EQ  27:17
+  3-1 RUS Vadim Shipachyov 5           Ivan Telegin                                      EQ  34:14
+  4-1 RUS Alexander Ovechkin 1         Yevgeni Kuznetsov, Roman Lyubimov                 EQ  42:45
+
+Kanada - Schweden                                6-0 (1-0,3-0,2-0)
+  1-0 CAN Mark Scheifele 4             Ryan O'Reilly, Mark Stone                         EQ  18:39
+  2-0 CAN Matt Dumba 1                 Mark Stone, Mark Scheifele                        PP1 26:05
+  3-0 CAN Brad Marchand 3              Matt Dumba, Mark Scheifele                        EQ  32:02
+  4-0 CAN Max Domi 1                   Sam Reinhart, Michael Matheson                    EQ  32:13
+  5-0 CAN Mark Stone 4                                                                   EQ  51:05
+  6-0 CAN Derick Brassard 4            Brendan Gallagher, Taylor Hall                    EQ  53:22
+
+---------------------------------------------------------------------------------------------------
+Halbfinale:
+---------------------------------------------------------------------------------------------------
+
+21.05.2016:
+Finnland - Russland                              3-1 (0-1,3-0,0-0)
+  0-1 RUS Sergei Shirokov 3            Ivan Telegin, Alexei Marchenko                    EQ   2:52
+  1-1 FIN Sebastian Aho 2              Mikael Granlund, Esa Lindell                      PP1 25:34
+  2-1 FIN Jussi Jokinen 3              Patrik Laine                                      EQ  35:50
+  3-1 FIN Sebastian Aho 3              Jarno Koskiranta, Mikko Koivu                     PP1 38:15
+
+Kanada - USA                                     4-3 (2-0,1-3,1-0)
+  1-0 CAN Brendan Gallagher 2          Boone Jenner, Sam Reinhart                        EQ   8:59
+  2-0 CAN Brad Marchand 4              Cody Ceci                                         EQ  18:02
+  2-1 USA Auston Matthews 6            Chris Wideman, Dylan Larkin                       PP1 21:14
+  2-2 USA David Warsofsky 1            Brock Nelson, Hudson Fasching                     EQ  23:57
+  2-3 USA Tyler Motte 1                Dylan Larkin, J.T. Compher                        EQ  28:25
+  3-3 CAN Derick Brassard 5            Ryan O'Reilly, Corey Perry                        PP1 35:30
+  4-3 CAN Ryan Ellis 1                 Ryan Murray, Connor McDavid                       EQ  41:34
+
+---------------------------------------------------------------------------------------------------
+Spiel um Platz 3:
+---------------------------------------------------------------------------------------------------
+
+22.05.2016:
+Russland - USA                                   7-2 (2-0,3-1,2-1)
+  1-0 RUS Vyacheslav Voinov 1          Sergei Kalinin, Sergei Shirokov                   EQ   6:23
+  2-0 RUS Sergei Mozyakin 5            Pavel Datsyuk, Dmitri Orlov                       PP1 13:41
+  3-0 RUS Ivan Telegin 4               Pavel Datsyuk, Sergei Mozyakin                    EQ  29:36
+  4-0 RUS Yevgeni Dadonov 6            Artemi Panarin, Vadim Shipachyov                  EQ  32:49
+  4-1 USA Frank Vatrano 2              David Warsofsky, Brock Nelson                     PP1 34:29
+  5-1 RUS Artemi Panarin 6             Anton Belov, Maxim Chudinov                       EQ  35:22
+  5-2 USA Frank Vatrano 3              David Warsofsky                                   EQ  43:42
+  6-2 RUS Sergei Mozyakin 6            Pavel Datsyuk                                     EQ  53:13
+  7-2 RUS Vadim Shipachyov 6           Yevgeni Dadonov, Artemi Panarin                   PP1 59:53
+
+---------------------------------------------------------------------------------------------------
+Finale:
+---------------------------------------------------------------------------------------------------
+
+22.05.2016:
+Finnland - Kanada                                0-2 (0-1,0-0,0-1)
+  0-1 CAN Connor McDavid 1             Matt Duchene                                      EQ  11:24
+  0-2 CAN Matt Duchene 5               Brad Marchand                                     EQ  59:59 ENG  
+
+---------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------
+
+* Scorerliste:
+
+PL Player                    Cty GP  G  A  TP  PIM  +/-
+-------------------------------------------------------
+ 1 Vadim Shipachyov          RUS 10  6 12  18    8  +10
+ 2 Artemi Panarin            RUS 10  6  9  15    4   +9
+ 3 Yevgeni Dadonov           RUS 10  6  7  13    6  +10
+ 4 Patrik Laine              FIN 10  7  5  12    4   +4
+ 5 Mikael Granlund           FIN 10  4  8  12    2   +6
+ 6 Derick Brassard           CAN 10  5  6  11    4   +9
+ 7 Pavel Datsyuk             RUS 10  1 10  11    0   +6
+ 8 Matt Duchene              CAN 10  5  5  10    2  +10
+ 9 Mikko Koivu               FIN 10  4  6  10   12   +8
+   Mark Stone                CAN 10  4  6  10    6   +8
+11 Jussi Jokinen             FIN 10  3  7  10    2   +5
+
+* Torhüter
+
+PL Player              Cty GP     Min  GAA  GA  SA  Pctg. SO
+------------------------------------------------------------
+ 1 Dominik Furch       CZE  4  255:00 0.94   4 100 96.99   2
+ 2 Mikko Koskinen      FIN  8  479:01 1.13   9 169 94.67   1
+ 3 Cam Talbot          CAN  8  480:00 1.25  10 167 94.01   4
+ 4 Sebastian Dahm      DEN  7  434:04 2.21  16 248 93.55   1
+ 5 Sergei Bobrovski    RUS  9  520:51 1.73  15 218 93.12   1
+ 6 Vitali Kolesnik     KAZ  6  324:24 3.51  19 237 91.98   0
+ 7 Elvis Merzlikins    LAT  5  268:00 2.91  13 148 91.22   0
+ 8 Lars Haugen         NOR  4  207:33 2.60   9  94 90.43   0
+ 9 Thomas Greiss       GER  4  240:00 2.50  10 104 90.38   0
+10 Pavel Francouz      CZE  4  244:56 2.45  10  96 89.58   0
+
+* Wertvollster Spieler (MVP):
+
+Patrik Laine (FIN)
+
+* Bester Stürmer:
+
+Patrik Laine (FIN)
+
+* Bester Verteidiger:
+
+Michael Matheson (CAN)
+
+* Bester Torhüter:
+
+Mikko Koskinen (FIN)
+
+* All-Star Team:
+                        Mikko Koskinen (FIN)
+          Nikita Zaitsev (RUS) - Michael Matheson (CAN)
+Patrik Laine (FIN) - Vadim Shipachyov (RUS) - Mikael Granlund (FIN)
+
+---------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------
